@@ -1,0 +1,7 @@
+.contact-info a{
+    color: #F2490C;
+}
+.contact-info a:hover{
+    color: rgba(242, 73, 12, 0.60);
+    text-decoration: none;
+}
