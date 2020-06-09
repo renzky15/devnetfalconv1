@@ -4,7 +4,7 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "homepage": "http://devnet-falcon-app.herokuapp.com",
   "engines": {
-    "node": "12.16.x",
+    "node": ">=10.21.0",
     "npm": "6.x"
   },
   "dependencies": {
